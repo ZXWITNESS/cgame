@@ -1,0 +1,6 @@
+5
+level:0,min_step:10
+level:1,min_step:11
+level:2,min_step:0
+level:3,min_step:36
+level:4,min_step:67

@@ -1,0 +1,8 @@
+﻿  源.cpp
+d:\c\推箱子2\推箱子2\源.cpp(138): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 参见“getch”的声明
+d:\c\推箱子2\推箱子2\源.cpp(142): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 参见“getch”的声明
+d:\c\推箱子2\推箱子2\源.cpp(395): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\c\推箱子2\推箱子2\源.cpp(153): warning C4715: “ReadKey”: 不是所有的控件路径都返回值
+LINK : fatal error LNK1104: 无法打开文件“msvcprtd.lib”
